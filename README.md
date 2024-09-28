@@ -45,7 +45,7 @@ time chat, User-guiding, and AWS
 
 - As a MEAN stack developer and team lead Developed a E-commerce website and admin pannel .
 - Integrated payment getway like Stripe and Razorpay.
-- implemented server-side rendering (SSR), which optimized the site's SEO and improved load times.
+- implemented server-side rendering (SSR), which optimized the site's SEO and improved load times (https://peacockcollective.in/).
 
 6) Lead Management:
 
