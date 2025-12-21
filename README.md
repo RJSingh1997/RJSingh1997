@@ -2,13 +2,13 @@
 
 ### Full Stack Developer | Angular | Node Js | MongoDB | MySQL | AWS
 
-I’m a dedicated full-stack developer with 4.5 years of experience building scalable web applications using the MEAN stack (MongoDB, Express, Angular, Node.js). Proficient in deploying solutions on AWS, I specialize in crafting efficient, reliable systems for diverse industries. I am passionate about embracing new technologies and continuously enhancing my skills. My focus is on delivering high-quality projects that solve real-world problems while pushing the boundaries of innovation.
+I’m a dedicated full-stack developer with 6+ years of experience building scalable web applications using the MEAN stack (MongoDB, Express, Angular, Node.js). Proficient in deploying solutions on AWS, I specialize in crafting efficient, reliable systems for diverse industries. I am passionate about embracing new technologies and continuously enhancing my skills. My focus is on delivering high-quality projects that solve real-world problems while pushing the boundaries of innovation.
 
 🔭 **I’m currently working on**: A cloud-based e-commerce platform.
 
 🌱 **Learning**: Advanced AWS services and serverless architecture.
 
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/rohit-singh-53477a14a/) | [Email](mailto:rohitjsingh16@gmail.com)
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/rohit16071997) | [Email](mailto:rohitjsingh16@gmail.com)
 
 🛠️ **Skills**:
 - Frontend: Angular, React.js, Angular Material, Ionic
